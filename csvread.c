@@ -5,6 +5,7 @@
 
 #define BUFFSIZE 102400
 
+
 static char SEPARATOR = ',';
 static char UNSCO = '_';
 
